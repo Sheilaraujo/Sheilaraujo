@@ -4,7 +4,7 @@ Hi 👋 My name is Sheila Araujo!
 Full Stack Developer
 --------------------
 
-Working with IT for five years and seeking to conquer the world! Now, developing 😎
+Working with IT for four years and seeking to conquer the world! Now, developing 😎
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [sheilla-araujo@hotmail.com](mailto:sheilla-araujo@hotmail.com)
@@ -33,5 +33,7 @@ Working with IT for five years and seeking to conquer the world! Now, developing
 ### Badges
 
 <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sheilaraujo"><img src="https://activity-graph.herokuapp.com/graph?username=sheilaraujo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/sheilaraujo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheilaraujo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
