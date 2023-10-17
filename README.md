@@ -4,7 +4,7 @@ Hi 👋 My name is Sheila Araujo!
 Full Stack Developer
 --------------------
 
-Working with IT for four years and seeking to conquer the world! Now, developing 😎
+Working with IT for five years and seeking to conquer the world! Now, developing 😎
 
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [sheilla-araujo@hotmail.com](mailto:sheilla-araujo@hotmail.com)
