@@ -9,7 +9,7 @@ Working with IT for five years and seeking to conquer the world! Now, developing
 * 🌍  I'm based in São Paulo, Brazil
 * ✉️  You can contact me at [sheilla-araujo@hotmail.com](mailto:sheilla-araujo@hotmail.com)
 * 👨‍🎓  Computer engineering student 
-* 🧠  Graduated in Ruby on Rails and accepting new challenges!
+* 🧠  Graduated in WEB DEV
 * 🤝  I'm open to collaborating on specially challenging projects which are suited to put my skills to the test 
 * ⚡  Fluent Portuguese, Intermediate English and Spanish, but in constant evolution ✌
 * ❤   Tech lover
