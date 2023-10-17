@@ -39,5 +39,5 @@ Working with IT for five years and seeking to conquer the world! Now, developing
 <b>My GitHub Stats</b>
 
 <a
-                      href="http://www.github.com/Sheilaraujo"><img src="https://github-readme-stats.vercel.app/api?username=Sheilaraujo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sheilaraujo's GitHub stats" /></a><a
+                      href="http://www.github.com/Sheilaraujo"><img src="https://github-readme-stats.vercel.app/api?username=Sheilaraujo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sheilaraujo's GitHub stats" /></a>
 
