@@ -40,4 +40,4 @@ Working with IT for five years and seeking to conquer the world! Now, developing
 
 <a
                       href="http://www.github.com/Sheilaraujo"><img src="https://github-readme-stats.vercel.app/api?username=Sheilaraujo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sheilaraujo's GitHub stats" /></a><a
-                      href="http://www.github.com/Sheilaraujo"><img src="https://activity-graph.herokuapp.com/graph?username=Sheilaraujo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/Sheilaraujo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sheilaraujo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
